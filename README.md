@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Hola soy John Anderson, Ingenierio de sitemas apasionado en el desarrollo web y Seguridad informatica.
 <!--
 **logan20andy/logan20andy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
